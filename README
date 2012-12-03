@@ -1,0 +1,18 @@
+Actor                                                 Viewer
+  |                                                     |
+  |    invite someone(viewer) with a unique link        |
+  |--------------------------------------------->       |
+  |         access with the specific link               |
+  |      <----------------------------------------------|
+  |    get viewer's online notice                       |
+  |--------------------------------------------->       |
+            wait for actor's performance                |
+         <----------------------------------------------|
+
+
+now what kind of performance we can support?
+I came up with 4 differents performances
+    $ pure text message
+    $ HTML              (*)
+    $ drawing           (*)
+    $ markdown
